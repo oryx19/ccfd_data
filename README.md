@@ -1,7 +1,7 @@
 # Credit_card_fraud_data
 Credit card fraud detection data analysis
 
-### During the process of collecting data for research on Credit Card Fraud Detection, it is well understood that searching for datasets related to credit card information is highly sensitive.
+**During the process of collecting data for research on Credit Card Fraud Detection, it is well understood that searching for datasets related to credit card information is highly sensitive.**
 
 - **First dataset [ECC – European Credit Card]**:
 This dataset was collected by the Machine Learning Group of the Université Libre de Bruxelles in collaboration with Worldline. It contains 284,807 anonymized credit card transactions; however, only 492 of them are fraudulent, resulting in a highly imbalanced dataset. The imbalance ratio is 1:578, corresponding to a positive ratio of 0.173%.
