@@ -1,5 +1,10 @@
 # Credit_card_fraud_data
-Credit card fraud detection data analysis
+## Introduction
+Credit card fraud is an urgent issue in the financial industry, with global losses estimated at up to USD 28.65 billion in 2021. Studies show that every dollar lost to fraud actually costs businesses an average of USD 3.75, representing a 20% increase compared to 2019. This results in significant financial and reputational damage: if fraud is not detected in time, both banks and customers may suffer serious losses, lose trust, and even face regulatory penalties.
+
+Therefore, accurate and timely credit card fraud detection and prevention strategies play a crucial role in protecting revenue and maintaining institutional credibility. Moreover, transaction datasets are typically very large and highly imbalanced (with fraudulent transactions representing only a tiny proportion, for example about 0.172% in commonly used datasets), which requires models to be both fast and highly sensitive. Consequently, developing accurate predictive models is essential to minimize financial losses and ensure the security of payment systems.
+----
+## Credit card fraud detection data analysis
 
 **During the process of collecting data for research on Credit Card Fraud Detection, it is well understood that searching for datasets related to credit card information is highly sensitive.**
 
