@@ -4,6 +4,9 @@ Credit card fraud is an urgent issue in the financial industry, with global loss
 
 Therefore, accurate and timely credit card fraud detection and prevention strategies play a crucial role in protecting revenue and maintaining institutional credibility. Moreover, transaction datasets are typically very large and highly imbalanced (with fraudulent transactions representing only a tiny proportion, for example about 0.172% in commonly used datasets), which requires models to be both fast and highly sensitive. Consequently, developing accurate predictive models is essential to minimize financial losses and ensure the security of payment systems.
 
+## Purpose
+In this section, we will collect, process, analyze, and identify relevant features that can be used for the model. The algorithms applied in the model and the related data sources will also be properly cited.
+
 ## Credit card fraud detection data analysis
 
 **During the process of collecting data for research on Credit Card Fraud Detection, it is well understood that searching for datasets related to credit card information is highly sensitive.**
